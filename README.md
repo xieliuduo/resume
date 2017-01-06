@@ -1,6 +1,6 @@
 # My Resume
 
-[html.love](http://html.love)
+[简历](http://xieliuduo.github.io)
 
 ## Introduction
 
@@ -25,4 +25,4 @@ $ gulp
 
 ## LICENSE
 
-MIT © [DIYgod](http://github.com/DIYgod)
+MIT © [xieliuduo](http://github.com/xieliuduo)
